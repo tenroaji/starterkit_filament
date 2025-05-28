@@ -1,6 +1,6 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "starterkit/laravel",
+    "name": "starterkit/filament",
     "description": "Laravel Starter Kit with Filament and Filament Shield",
     "type": "project",
     "keywords": ["laravel", "framework"],
